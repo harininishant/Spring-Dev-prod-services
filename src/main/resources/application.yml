@@ -1,0 +1,11 @@
+#debug= false // regular properties
+#service.name = "FillStack Service"
+
+service:
+  name: Full Stack Java Service
+  debug: false
+Spring:
+  profiles:
+    active: prod
+
+
