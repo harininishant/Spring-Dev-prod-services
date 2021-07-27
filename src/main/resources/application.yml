@@ -6,6 +6,6 @@ service:
   debug: false
 Spring:
   profiles:
-    active: prod
+    active: App
 
 
